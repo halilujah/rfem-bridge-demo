@@ -25,24 +25,25 @@ The vision: structural engineers interact with models through **natural language
    cd rfem-bridge-demo
 
 2. **Create a virtual environment (recommended)**
-
-python -m venv .venv
-source .venv/bin/activate   # macOS/Linux
-.venv\Scripts\activate      # Windows
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate   # macOS/Linux
+   .venv\Scripts\activate      # Windows
 
 3. **Install dependencies**
-
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. **Edit config.json and paste your keys**
-
-{
-  "OPENAI_API_KEY": "your_openai_api_key_here",
-  "RFEM_API_KEY": "your_rfem_api_key_here"
-}
+   ```bash
+   {
+     "OPENAI_API_KEY": "your_openai_api_key_here",
+     "RFEM_API_KEY": "your_rfem_api_key_here"
+   }
 
 5. **Running the Demo**
-python main.py
+   ```bash
+   python main.py
 
 
 📺 Demo Video
