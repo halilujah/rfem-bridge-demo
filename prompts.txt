@@ -1,0 +1,7 @@
+Make it 3 spans, with the middle span 60 ft and the sides 30 ft.
+According to Eurocode, is my girder depth to span length ratio ok?
+What can be done to make it ok?
+Make the changes.
+Is deflection ok according to Eurocode?
+
+# RFEM 6 API (dlubal.api) is required for full integration

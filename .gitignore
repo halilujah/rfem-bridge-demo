@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+myenv/
+
+# Config files (secrets)
+config copy.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
