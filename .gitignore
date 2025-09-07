@@ -8,7 +8,7 @@ __pycache__/
 myenv/
 
 # Config files (secrets)
-config copy.json
+config.json
 
 # OS-specific
 .DS_Store
